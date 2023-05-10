@@ -19,7 +19,7 @@ Scentless Mayweed
 Shepherds Purse
 Small-flowered Cranesbill
 Sugar beet
-## Guide to solve the project seamlessly
+## Steps to follow
 - Read the problem statement carefully 
 - Download the dataset from the Olympus platform.
 - Set runtime type to “GPU” in Google Colab, so that the code will run faster as you will be using CNN to fit your model.
@@ -35,4 +35,4 @@ Sugar beet
 - Compile the model
 - Train the model and evaluate the performance
 ## Conclusion
-The model did not generalise well as the highest validation accuracy achieved was low comapred to the training accuracy.
+The model did not generalise well as the highest validation accuracy achieved was low comapared to the training accuracy.
